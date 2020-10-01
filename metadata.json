@@ -5,7 +5,7 @@
     "data": {
       "tables": {
         "asmd_incidents": {
-          "facets": ["Outcome", "Institution", "Role", "Discipline"]
+          "facets": ["Outcome", "Role", "Institution", "Discipline"]
         }
       }
     }
