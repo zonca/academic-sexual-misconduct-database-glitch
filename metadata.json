@@ -1,6 +1,6 @@
 {
   "title": "Academic Sexual Misconduct Database",
-  "description_html": "<p><a href=\"https://academic-sexual-misconduct-database.org/\">Academic Sexual Misconduct Database</a> using Datasette to automate the creation of a data portal.</p><p>Data exported on 30 September 2020</p>",
+  "description_html": "<p><a href=\"https://academic-sexual-misconduct-database.org/\">Academic Sexual Misconduct Database</a> using Datasette to automate the creation of a data portal.</p><p>Data exported on 30 September 2020</p><p>Click on the Remix button to create a editable and executable copy of the project <br/><a href=\"https://glitch.com/edit/#!/remix/academic-sexual-misconduct-database\"><img src=\"https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg\" alt=\"Remix on Glitch\" /></a></p>",
   "databases": {
     "data": {
       "tables": {
