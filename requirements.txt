@@ -6,10 +6,10 @@ pip
 # Plugins - uncomment to install:
 
 # - Plot latitude/longitude on a map:
-# datasette-cluster-map
+datasette-cluster-map
 
 # - Add bar/line/scatter plots:
-# datasette-vega
+datasette-vega
 
 # More plugins here:
 #   https://datasette.readthedocs.io/en/stable/ecosystem.html#datasette-plugins
